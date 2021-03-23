@@ -1,4 +1,7 @@
-### 你好呀QAQ
+## QAQ
+- 很高兴见到你！& Glad to see you!
+- 有任何问题都可以问！有时间就会回复 & Welcome to ask any questions! I'll reply when I'm free.
+- 你会看到烂代码，这很正常，因为我不是专业的wwww & Trash coding warning! Coz I'm not the PRO. I gotta do other jobs.
 
 <a href="https://github.com/MashiroSA/">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MashiroSA&show_icons=true&include_all_commits=true" />

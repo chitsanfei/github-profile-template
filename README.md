@@ -1,5 +1,5 @@
 ## ⚠️
-- To Cure Sometimes，To Relieve Often，To Comfort Always.
+- To Cure Sometimes, To Relieve Often, To Comfort Always.
 - MashiroSA, a simple medical student.
 
 <a href="https://github.com/MashiroSA/">

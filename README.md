@@ -8,10 +8,15 @@
 </a>
 
 #### ✨ Top Langs & Favourite Repo
-<a href="https://github.com/MashiroSA/">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact" />
-</a>
-
-<a href="https://github.com/MashiroSA/alice-bot-cs-sw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=alice-bot-cs-sw" />
-</a>
+<table>
+  <tr>
+    <td valign=top" width="50%">
+      <a href="https://github.com/MashiroSA/">
+        <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact" />
+      </a>
+      <a href="https://github.com/MashiroSA/alice-bot-cs-sw">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=alice-bot-cs-sw" />
+      </a>                                                                                                                                 
+    </td>
+  </tr>
+</table>

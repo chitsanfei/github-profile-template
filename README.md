@@ -1,6 +1,5 @@
-## ⚠️
-- To Cure Sometimes, to Relieve Often, to Comfort Always.
-- MashiroSA.
+## 🎉
+> When you look long into an abyss, the abyss looks into you.
 
 #### ✨ Github Stats 
 <a href="https://github.com/MashiroSA/">

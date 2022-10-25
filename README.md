@@ -13,7 +13,7 @@
       <a href="https://github.com/MashiroSA/">
         <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
       </a>
-      <a href="https://github.com/MashiroSA/alice-bot-cs-sw">
+      <a href="https://github.com/MashiroSA/rin-asf-bot">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=rin-asf-bot&theme=radical" />
       </a>                                                                                                                                 
     </td>

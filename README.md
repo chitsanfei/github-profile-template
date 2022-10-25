@@ -14,7 +14,7 @@
         <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
       </a>
       <a href="https://github.com/MashiroSA/alice-bot-cs-sw">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=alice-bot-cs-sw&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=rin-asf-bot&theme=radical" />
       </a>                                                                                                                                 
     </td>
   </tr>

@@ -25,14 +25,14 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="45%">
+      <td valign="top" width="50%">
         <a href="https://github.com/MashiroSA/">
-          <img align="center" alt="Top Langs" height="200" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
+          <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
         </a>
       </td>
       <td valign="top" width="50%">
         <a href="https://github.com/MashiroSA/rin-asf-bot">
-          <img align="center" height="200" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=rin-asf-bot&theme=radical" />
+          <img align="center" height="200" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=rin-asf-bot&theme=radical" />
         </a>
       </td>
     </tr>

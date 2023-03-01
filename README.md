@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=(●'◡'●);(,,•́%20.%20•̀,,)&font=Roboto&center=true" /> </h1>
-  <b>It's the only need thing to do...</b><br><br>
+  <h3>It's the only need thing to do...</h3>
 </div>
 
 > Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
 
-#### ✨ Visitor Stats 
+### ✨ Visitor Stats 
 
 <p align="center">
   <a href="https://github.com/MashiroSA/">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-#### 🍎 Github Stats 
+### 🍎 Github Stats 
 <p align="center">
   <a href="https://github.com/MashiroSA/">
     <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MashiroSA&show_icons=true&include_all_commits=true&theme=radical" />
@@ -24,7 +24,7 @@
 </p>
     
 
-#### 🐟 Top Langs & Information
+### 🐟 Top Langs & Information
 <div align="center">
   <table>
     <tr>
@@ -36,7 +36,7 @@
 </div>
 
 
-#### 🔧 My Skill Set  
+### 🔧 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 #### Frontend  

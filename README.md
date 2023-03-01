@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> (●'◡'●) </h2>
+  <h2 align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=(●'◡'●);(,,•́%20.%20•̀,,)&font=Roboto&center=true" /> </h2>
   It's the only need thing to do...<br><br>
 </div>
 
@@ -21,19 +21,17 @@
 </p>
     
 
-#### 🐟 Top Langs & Favourite Repo
+#### 🐟 Top Langs & Information
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="mid" width="100%">
         <a href="https://github.com/MashiroSA/">
           <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
         </a>
       </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/MashiroSA/rin-asf-bot">
-          <img align="center" height="200" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=mashirosa&repo=rin-asf-bot&theme=radical" />
-        </a>
+      <td valign="mid" width="100%">
+        <img src="https://activity-graph.herokuapp.com/graph?username=MashiroSA&theme=xcode" />
       </td>
     </tr>
   </table>

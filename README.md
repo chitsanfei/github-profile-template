@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/MashiroSA/">
-    <img align="center" src='https://count.getloli.com/get/@mashirosa/?theme=rule34' width="400px">
+    <img align="center" src='https://moe-counter.mashirosa.repl.co/get/@mashirosa/?theme=rule34' width="400px">
   </a>
 </p>
 

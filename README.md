@@ -1,9 +1,14 @@
 <div align="center">
-  <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=(●'◡'●);(,,•́%20.%20•̀,,)&font=Roboto&center=true" /> </h1>
+  <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°;)っ&font=Roboto&center=true" /> </h1>
   <h3>It's the only need thing to do...</h3>
 </div>
 
 > Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
+
+<div align="center"><img src="https://raw.githubusercontent.com/mashirosa/mashirosa/master/assets/github-contribution-grid-snake.svg" ></div>
+
+### 👋 Hola!
+- Hi, I'm a clinical medical student who keeps in living and studying!
 
 ### ✨ Visitor Stats 
 

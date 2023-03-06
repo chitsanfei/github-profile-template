@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
+  <img src="https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/resource/headshot.png" width="200" height="200" alt="MiaBot"> 
   <h3>It's the only need thing to do...</h3>
 </div>
 

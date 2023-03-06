@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°;)っ&font=Roboto&center=true" /> </h1>
+  <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
   <h3>It's the only need thing to do...</h3>
 </div>
 

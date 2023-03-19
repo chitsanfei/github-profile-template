@@ -1,10 +1,11 @@
 <div align="center">
-  <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
+  <h1 align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
   <img src="https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/wonderhoy.webp" width="200" height="200" alt="MashiroSA"> 
   <h4>うわわーっ☆それってとってもわんだほーいだね！</h4>
 </div>
 
 > ねえねえ　わかんないや　自分会議も　どんどん　中に寄って　でも離れてく
+> 
 > 呐呐 我不明白啊 连跟自己的会议也是 越来越 往中心靠近 但又逐渐在远离
 
 

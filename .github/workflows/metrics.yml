@@ -23,7 +23,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS }}
-          path: ./assets/
+          svg_out_path: ./assets/github-metrics.svg
 
           # Options
           user: MashiroSA

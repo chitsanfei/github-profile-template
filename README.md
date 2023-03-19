@@ -13,7 +13,7 @@
 
 ### 👋 Hola
 
-- Hi, I'm a clinical medical student who keeps in living and studying!
+- I'm a clinical medical student who keeps in living and studying
 - If you have any problem or question, feel free to ask me!
 - Langs: Chinese, English, Japanese(Learning), Deutsch(Learning, On Hold).
 
@@ -92,3 +92,15 @@
   </tr>
 </table>  
 <br/>
+
+### 🍎 Far More Details
+<div align="center">
+<img src="https://github.com/MashiroSA/MashiroSA/blob/master/github-metrics.svg">
+</div>
+
+
+<div align="center">
+  <font size=2 >
+  Designed by Chitsanfei0v0
+  </font>
+</div>

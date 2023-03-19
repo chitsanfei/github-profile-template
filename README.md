@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
+  <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
   <img src="https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/wonderhoy.webp" height="200" alt="MashiroSA"> 
   <h3>うわわーっ☆それってとってもわんだほーいだね！</h3>
 </div>

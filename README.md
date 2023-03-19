@@ -4,9 +4,9 @@
   <h3>うわわーっ☆それってとってもわんだほーいだね！</h3>
 </div>
 
-> ねえねえ　わかんないや　自分会議も　どんどん　中に寄って　でも離れてく
+> ねえねえ、わかんないや。自分会議も、どんどん、中に寄って、でも離れてく。
 > 
-> 呐呐 我不明白啊 连跟自己的会议也是 越来越 往中心靠近 但又逐渐在远离
+> 宁宁，我不到呀！连自我怀疑也是，越来越，往中心靠近，但又逐渐在远离
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/mashirosa/mashirosa/master/assets/github-contribution-grid-snake.svg" ></div>

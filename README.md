@@ -13,9 +13,10 @@
 
 ### 👋 Hola
 
-- I'm a clinical medical student who keeps in living and studying
+- I'm a clinical medical student who keeps in living and studying.
 - If you have any problem or question, feel free to ask me!
 - Langs: Chinese, English, Japanese(Learning), Deutsch(Learning, On Hold).
+- Email: emuotori.sekai@gmail.com
 
 ### ✨ Visitor Stats
 

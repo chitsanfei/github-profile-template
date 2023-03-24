@@ -6,7 +6,7 @@
 
 > ねえねえ、わかんないや。自分会議も、どんどん、中に寄って、でも離れてく。
 > 
-> 宁宁，我不到呀！连自我怀疑也是，越来越，往中心靠近，但又逐渐在远离
+> 宁宁，我不到呀！连自我怀疑也是，越来越，往中心靠近，但又逐渐在远离。
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/mashirosa/mashirosa/master/assets/github-contribution-grid-snake.svg" ></div>

@@ -13,10 +13,16 @@
 
 ### 👋 Hola
 
-- I'm a clinical medical student who keeps in living and studying.
+- I'm a clinical medical student who keeps in living and studying. 
+> 我是临床医学的学生，在坚持活着和学习！
 - If you have any problem or question, feel free to ask me!
+> 如果你有任何问题，随意问我，我不会生气。
 - Langs: Chinese, English, Japanese(Learning), Deutsch(Learning, On Hold).
+> 我正在学习上述自然语言。
 - Email: emuotori.sekai@gmail.com
+> 这是我的通讯邮箱，如果有问题欢迎丢邮件给我。
+- As a fact, I'm not a computer science student. But I'm interested in Programming, AI and so on. I'm trying to learn from all one of you in Github and I may occur some issues on project or make mistakes. I do really apologize for that. Plz don't get mad on me. ( •ᴗ• )
+> 事实上我并非一个计科学生，但是我对编程和AI感兴趣，我会尽力的向大家学习，有时候我会造成项目的问题或者犯错误，我真的很抱歉，希望大家不要生气！
 
 ### ✨ Visitor Stats
 

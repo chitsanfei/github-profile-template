@@ -35,10 +35,10 @@
 ### 🍎 Github Stats 
 <p align="center">
   <a href="https://github.com/MashiroSA/">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MashiroSA&show_icons=true&include_all_commits=true&theme=radical" />
+    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MashiroSA&show_icons=true&include_all_commits=true&theme=transparent" />
   </a>
   <a href="https://github.com/MashiroSA/">
-          <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
+    <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=transparent" />
   </a>
 </p>
     
@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td valign="mid" width="50%">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MashiroSA&theme=xcode" />
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MashiroSA&theme=transparent" />
       </td>
     </tr>
   </table>

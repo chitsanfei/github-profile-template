@@ -1,25 +1,29 @@
+<!-- head para -->
 <div align="center">
   <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
   <img src="https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/wonderhoy.webp" height="200" alt="MashiroSA"> 
-  <h3>うわわーっ☆それってとってもわんだほーいだね！</h3>
+  <h3>わんわん、わんだほーい☆</h3>
 </div>
 
-> ねえねえ、わかんないや。自分会議も、どんどん、中に寄って、でも離れてく。
-> 
-> 宁宁，我不到呀！连自我怀疑也是，越来越，往中心靠近，但又逐渐在远离。
+<!-- ref para -->
+<div align="center">
+  <b>それじゃあさっそく、みんなで一緒に わんだほいポーズをするよ～♪</b> <br>
+  <p>那么，大家马上一起摆出旺大吼的姿势哦~♪</p> 
+</div>
 
-
+<!-- status of contribution -->
 <div align="center"><img src="https://raw.githubusercontent.com/mashirosa/mashirosa/master/assets/github-contribution-grid-snake.svg" ></div>
 
+<!-- markdown start -->
 ### 👋 Hola
 
-- I'm a clinical medical student who keeps in living and studying. 
-> 我是临床医学的学生，在坚持活着和学习！
+- I am a student of clinical medicine, insisting on living and learning! Recently I have been very busy, so I may not be online as so often!
+> 我是临床医学的学生，在坚持活着和学习！最近很忙哦，所以可能不经常在线！
 - If you have any problem or question, feel free to ask me!
 > 如果你有任何问题，随意问我，我不会生气。
 - Langs: Chinese, English, Japanese(Learning), Deutsch(Learning, On Hold).
-> 我正在学习上述自然语言。
-- As a fact, I'm not a computer science student. But I'm interested in Programming, AI and so on. I'm trying to learn from all one of you in Github and I may occur some issues on project or make mistakes. I do really apologize for that. Plz don't get mad on me. ( •ᴗ• )
+> 我正在学习上述自然语言（中，英，日，德）。
+- As a fact, I'm not a computer science student. But I'm interested in Programming, AI and so on. I'm trying to learn from all one of you in Github and I may occur some issues on project or make mistakes. I do really apologize for that. Please don't get mad on me. ( •ᴗ• )
 > 事实上我并非一个计科学生，但是我对编程和AI感兴趣，我会尽力的向大家学习，有时候我会造成项目的问题或者犯错误，我真的很抱歉，希望大家不要生气！
 
 ### ✨ Visitor Stats

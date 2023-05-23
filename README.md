@@ -50,7 +50,7 @@
   <table>
     <tr>
       <td valign="mid" width="50%">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MashiroSA&theme=transparent" />
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MashiroSA&theme=vue" />
       </td>
     </tr>
   </table>

@@ -9,8 +9,8 @@ on:
     types: started
   schedule:
     - cron:  '0 0 * * *'
-
-
+  push: {branches: ["master", "main"]}
+  
 jobs:
   build:
     runs-on: ubuntu-latest

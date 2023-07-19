@@ -58,6 +58,7 @@
 
 
 ### 🔧 My Skill Set
+</br>
 <div align="center">
   <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -71,6 +72,7 @@
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=EEEEEE">
   </p>
 </div>
+</br>
 
 ### 🍎 Far More Details
 <div align="center">

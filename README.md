@@ -1,12 +1,12 @@
 <!-- head para -->
 <!--
 # MashiroSA -> 😊
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/banner.gif" width="200%" alt="MashiroSA"> 
 </div>
+-->
 
-![Alt text](https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/banner.gif?raw=true)
+![banner](https://github.com/MashiroSA/MashiroSA/assets/40637516/5c862155-2112-47e2-84a5-268c2ed6da80)
 
 <!-- markdown start -->
 ### 👋 Hola

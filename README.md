@@ -6,7 +6,7 @@
 </div>
 -->
 
-![banner](https://github.com/MashiroSA/MashiroSA/assets/40637516/5c862155-2112-47e2-84a5-268c2ed6da80)
+![Banner](https://github.com/MashiroSA/MashiroSA/assets/40637516/eb7b2d64-01df-487f-a571-5553c63a3fe7)
 
 <!-- markdown start -->
 ### 👋 Hola

@@ -3,7 +3,7 @@
 # MashiroSA -> 😊
 -->
 <div align="center">
-  <img src="./assets/banner.png" width="200%" alt="MashiroSA"> 
+  <img src="./assets/banner.gif" width="200%" alt="MashiroSA"> 
 </div>
 
 <!-- markdown start -->

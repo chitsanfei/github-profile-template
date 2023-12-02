@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/banner.gif" width="200%" alt="MashiroSA"> 
 </div>
 
+![Alt text](https://raw.githubusercontent.com/MashiroSA/MashiroSA/master/assets/banner.gif?raw=true)
+
 <!-- markdown start -->
 ### 👋 Hola
 

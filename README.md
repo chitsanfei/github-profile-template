@@ -1,11 +1,10 @@
 <!-- head para -->
+<!--
 # MashiroSA -> 😊
+-->
 <div align="center">
-  <img src="./assets/banner.jpg" width="200%" alt="MashiroSA"> 
+  <img src="./assets/banner.png" width="200%" alt="MashiroSA"> 
 </div>
-
-<!-- status of contribution -->
-<div align="center"><img src="https://raw.githubusercontent.com/mashirosa/mashirosa/master/assets/github-contribution-grid-snake.svg" ></div>
 
 <!-- markdown start -->
 ### 👋 Hola
@@ -16,6 +15,11 @@
 
 - As a fact, I'm not a computer science student. But I'm interested in Programming, AI and so on. I'm trying to learn from all one of you in Github and I may occur some issues on project or make mistakes. I do really apologize for that. Please don't get mad on me. ( •ᴗ• )
 
+
+### 🐍 Contribution Stats
+<div align="center"><img src="https://raw.githubusercontent.com/mashirosa/mashirosa/master/assets/github-contribution-grid-snake.svg" ></div>
+
+<!-- status of visitor -->
 ### ✨ Visitor Stats
 
 <p align="center">
@@ -24,6 +28,7 @@
   </a>
 </p>
 
+<!-- status of github -->
 ### 🔢 Github Stats 
 <p align="center">
   <a href="https://github.com/MashiroSA/">
@@ -34,7 +39,7 @@
   </a>
 </p>
     
-
+<!-- status of work -->
 ### 🐟 Work Work...
 <div align="center">
   <table>
@@ -62,12 +67,13 @@
   </p>
 </div> -->
 
-### 🚌 Activity
+<!-- activities -->
+### 🚌 Activities
 <div align="center">
 <img src="https://github.com/MashiroSA/MashiroSA/blob/master/github-metrics.svg">
 </div>
 
-
+<!-- footer -->
 <div align="center">
   <font size=2 >
   Designed by Chitsanfei0v0

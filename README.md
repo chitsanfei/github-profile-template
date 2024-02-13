@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/MashiroSA/">
-    <img align="center" src="https://Moe-counter.mashirosa.repl.co/get/@mashirosa" width="400px">
+    <img align="center" src="https://moe-counter.glitch.me/get/@mashirosa?theme=asoul" width="400px">
   </a>
 </p>
 
